@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Contactos
+comment1.params=
+comment1.target=Contactos()
+comment2.params=amigo
+comment2.target=void\ agregarContacto(Amigos)
+comment3.params=amigo
+comment3.target=void\ eliminarContacto(Amigos)
+comment4.params=otroContacto
+comment4.target=void\ compartirContactos(Contactos)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

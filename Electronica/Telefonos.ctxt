@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Telefonos
+comment1.params=so
+comment1.target=void\ setSo(int)
+comment2.params=gama
+comment2.target=void\ setGama(int)
+comment3.params=
+comment3.target=int\ getSo()
+comment4.params=
+comment4.target=int\ getGama()
+comment5.params=
+comment5.target=Telefonos()
+comment6.params=so\ gama
+comment6.target=Telefonos(int,\ int)
+comment7.params=so\ gama
+comment7.target=void\ obtenerPrecio(int,\ int)
+comment8.params=so\ gama
+comment8.target=void\ descripcion(int,\ int)
+numComments=9

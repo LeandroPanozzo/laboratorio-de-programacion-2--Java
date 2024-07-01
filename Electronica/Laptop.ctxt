@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=proce
+comment1.target=void\ setProce(int)
+comment2.params=pulgadas
+comment2.target=void\ setPulgadas(int)
+comment3.params=
+comment3.target=int\ getProce()
+comment4.params=
+comment4.target=int\ getPulgadas()
+comment5.params=
+comment5.target=Laptop()
+comment6.params=proce\ pulgadas
+comment6.target=Laptop(int,\ int)
+comment7.params=pulgadas\ procesador
+comment7.target=void\ obtenerPrecio(int,\ int)
+comment8.params=pulgadas\ procesador
+comment8.target=void\ descripcion(int,\ int)
+numComments=9

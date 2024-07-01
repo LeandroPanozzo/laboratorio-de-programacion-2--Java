@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Acciones
+comment1.params=
+comment1.target=void\ caminar()
+comment2.params=
+comment2.target=void\ correr()
+comment3.params=
+comment3.target=void\ saltar()
+numComments=4

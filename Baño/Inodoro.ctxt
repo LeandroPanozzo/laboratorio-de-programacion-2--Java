@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Inodoro
+comment1.params=ocupar
+comment1.target=void\ setOcupar(boolean)
+comment2.params=
+comment2.target=boolean\ getOcupar()
+comment3.params=
+comment3.target=Inodoro()
+comment4.params=ocupar
+comment4.target=Inodoro(boolean)
+comment5.params=
+comment5.target=void\ entrar()
+comment6.params=ocupar\ foco
+comment6.target=void\ Utilizar(boolean,\ boolean)
+numComments=7

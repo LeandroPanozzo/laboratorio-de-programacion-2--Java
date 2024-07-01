@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ducha
+comment1.params=grifo
+comment1.target=void\ setGrifo(boolean)
+comment2.params=
+comment2.target=boolean\ getGrifo()
+comment3.params=
+comment3.target=Ducha()
+comment4.params=grifo
+comment4.target=Ducha(boolean)
+comment5.params=
+comment5.target=void\ entrar()
+comment6.params=grifo
+comment6.target=void\ AbrirGrifo(boolean)
+comment7.params=grifo\ foco
+comment7.target=void\ Ba\u00F1arse(boolean,\ boolean)
+numComments=8

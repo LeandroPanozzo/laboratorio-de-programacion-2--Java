@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=pulgadas\ procesador
+comment1.target=void\ obtenerPrecio(int,\ int)
+comment2.params=a\ b
+comment2.target=void\ descripcion(int,\ int)
+numComments=3

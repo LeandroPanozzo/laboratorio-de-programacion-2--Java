@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ba\u00F1o
+comment1.params=foco
+comment1.target=void\ setFoco(boolean)
+comment2.params=
+comment2.target=boolean\ getFoco()
+comment3.params=
+comment3.target=Ba\u00F1o()
+comment4.params=foco
+comment4.target=Ba\u00F1o(boolean)
+comment5.params=foco
+comment5.target=void\ encenderFoco(boolean)
+numComments=6
